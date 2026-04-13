@@ -1,0 +1,20 @@
+Variable name	Definition
+ 	 
+Date	Week ending
+Category	Food category
+Subcategory	Food subcategory
+Dollars	Total value of sales
+Dollars last year	Total value of sales, same week last year
+Dollars 3 years ago	Total value of sales, same week 3 years ago (available starting May 2022 with data beginning October 3, 2021)
+Unit sales	Total units sold, any size
+Unit sales last year	Total units sold, any size, same week last year
+Unit sales 3 years ago	Total units sold, any size, same week 3 years ago (available starting May 2022 with data beginning October 3, 2021)
+Share	Category share of total dollar sales
+Share last year	Category share of total dollar sales, same week last year
+Share 3 years ago	Category share of total dollar sales, same week 3 years ago (available starting May 2022 with data beginning October 3, 2021)
+Percent change dollars 1 year	Change in sales value since same week last year, as a percent of last year's sales value
+Percent change units 1 year	Change in units sold of any size since same week last year, as a percent of last year's units sold
+Percent change share 1 year	Change in share since same week last year, as a percent of last year's share
+Percent change dollars 3 years	Change in sales value since same week 3 years ago, as a percent of sales value 3 years ago (available starting May 2022 with data beginning October 3, 2021)
+Percent change units 3 years	Change in units sold of any size since same week 3 years ago, as a percent of units sold 3 years ago (available starting May 2022 with data beginning October 3, 2021)
+Percent change share 3 years	Change in share since same week 3 years ago, as a percent of share 3 years ago (available starting May 2022 with data beginning October 3, 2021)
