@@ -18,8 +18,8 @@ This project analyzes retail sales data to understand customer buying behavior, 
 
 ## Dashboard Preview
 
-![LandingPage](assets/Landing_Page.png)
-![SalesPage](assets/Sales_Page.png)
+![LandingPage](Assets/Landing_Page.png)
+![SalesPage](Assets/Sales_Page.png)
 ---
 
 ## Key Insights
